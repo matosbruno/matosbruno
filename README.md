@@ -4,19 +4,17 @@
   Oi pessoal, eu sou o Bruno e estou dando os primeiros passos na área da tecnologia. Atualmente curso Engenharia de Software. Meus interesses são: aplicativos móveis e Inteligência Artificial.
 </p>
 
-<p align="left">
-  💼 Linguagens: Python, Flutter/Dart.
-</p>
+<p align="left"><b>**Linguagens**</b></p>
 
-<!--
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
--->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flutter](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
-<p align="left">
-  💌 Para entrar em contato: ⤵️
-</p>
+<p align="left"><b>**Ferramentas**</b></p>
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+<p align="left"><b>**Contato: ⤵️**</b></p>
 
 <p align="left">
   <a href="#" title="Gmail">
