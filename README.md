@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi pessoal, eu sou o Bruno e estou dando os primeiros passos na área da tecnologia. Atualmente curso Engenharia de Software. Meus interesses são: aplicativos móveis e Inteligência Artificial.
+  Oi pessoal, eu sou o Bruno e estou dando os primeiros passos na área de tecnologia. Atualmente curso Engenharia de Software. Meus interesses são: aplicativos móveis e Inteligência Artificial.
 </p>
 
 <p align="left"><b>**Linguagens**</b></p>
